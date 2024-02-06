@@ -1,16 +1,14 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h1 align="center">Hi 👋, I'm Peri</h1>
+    <h3 align="center">Graphic printing technician and Digital prepress student from Spain</h3>
+</div>
 
-<!--
-**PeriR3/PeriR3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ### 📫 How to reach me: **peripujante@gmail.com**
 
-Here are some ideas to get you started:
+<div align="left">
+    <h3>⚒️ Technologies and Skills:</h3>
+    <div>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" title="PhotoShop" **alt="PhotoShop" width="50" height="50"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
