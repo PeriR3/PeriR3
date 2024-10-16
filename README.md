@@ -1,6 +1,7 @@
+
+
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Peri</h1>
-    <h1 class="text-2xl sm:text-4xl neon-text mb-2 sm:mb-4">Hello, I'm JuanSK<span class="blink">_</span></h1>
     <h3 align="center">Graphic printing technician and Digital prepress student from Spain</h3>
 </div>
 
